@@ -9,7 +9,7 @@ import colors from "../config/colors";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import Bus from "./Bus";
 
-const GOOGLE_MAPS_APIKEY = "AIzaSyBM2TP99QHxnhD8t4QD7-sbRMxMuEfc8w8";
+const GOOGLE_MAPS_APIKEY = "######################################";
 
 const fakeBusLocations = [
 	{
